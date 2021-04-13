@@ -32,5 +32,3 @@ function newItem(){
     //Reordering the items: 
     $('#list').sortable();
 }
-
-//TEST COMMENT HERE FOR GITHUB ISSUE
